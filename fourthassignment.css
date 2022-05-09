@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(146, 185, 113);
+}
+
+section {
+    background-color: white;
+    padding: 30px;
+    width: 300px;
+    display: block;
+    margin: 200px auto;
+}
+
+#username {
+    border-width: none;
+    border-style: none;
+    background-color: lightgrey;
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+    height: 35px;
+    padding-left: 15px;
+}
+
+#password {
+    border-width: none;
+    border-style: none;
+    background-color: lightgrey;
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+    height: 45px;
+    padding-left: 15px;
+
+}
+
+form {
+    text-align: center;
+
+}
+
+form>* {
+    margin-bottom: 15px;
+}
+
+button {
+    border-width: none;
+    background-color: rgb(55, 184, 83);
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+    height: 45px;
+    color: white;
+    border-style: none;
+}
