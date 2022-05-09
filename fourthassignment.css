@@ -56,3 +56,18 @@ button {
     color: white;
     border-style: none;
 }
+
+p {
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+#create {
+    color: rgb(55, 184, 83);
+    ;
+}
+
+#not {
+    color: gray;
+}
